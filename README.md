@@ -1,12 +1,4 @@
-Investment Dashboard
-A full-stack investment dashboard application that allows users to track and analyze their mutual fund investments, displaying performance metrics, sector allocation, and fund overlap analysis.
-Features
 
-Dashboard Overview: View investment performance with key metrics
-Performance Charts: Interactive line charts for tracking investment growth
-Portfolio Composition: Visualize sector allocation with interactive blocks
-Overlap Analysis: Analyze fund overlaps to identify diversification opportunities
-Responsive Design: Works on desktop and mobile devices
 
 Tech Stack
 Frontend
